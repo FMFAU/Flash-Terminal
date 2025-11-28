@@ -1,13 +1,13 @@
 {
     "name": "flash-terminal",
-    "version": "2.0.0",
-    "description": "Advanced terminal with 100+ commands",
+    "version": "0.02",
+    "description": "The Universal Terminal",
     "main": "main.js",
     "scripts": {
         "start": "electron .",
         "build": "electron-builder"
     },
-    "author": "Your Name",
+    "author": "DIZZY",
     "license": "MIT",
     "devDependencies": {
         "electron": "^28.0.0",
@@ -21,8 +21,5 @@
             "icon": "Assets/zap.ico"
         }
     },
-    "dependencies": {
-        "requests": "^0.3.0",
-        "tinyurl": "^1.1.7"
-    }
+    "dependencies": {}
 }
