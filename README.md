@@ -1,5 +1,3 @@
----
-
 # Flash-Terminal
 
 **A universal terminal solution designed to replace traditional terminals like MySys32 and more.**
