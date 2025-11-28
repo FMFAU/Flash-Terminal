@@ -1,0 +1,28 @@
+{
+    "name": "flash-terminal",
+    "version": "2.0.0",
+    "description": "Advanced terminal with 100+ commands",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-builder"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^28.0.0",
+        "electron-builder": "^24.13.3"
+    },
+    "build": {
+        "appId": "com.flash.terminal",
+        "productName": "Flash Terminal",
+        "win": {
+            "target": "nsis",
+            "icon": "Assets/zap.ico"
+        }
+    },
+    "dependencies": {
+        "requests": "^0.3.0",
+        "tinyurl": "^1.1.7"
+    }
+}
