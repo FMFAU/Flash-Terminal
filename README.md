@@ -1,5 +1,3 @@
-Here’s a clean, professional README for **Flash-Terminal** with clear sections and a neat look:
-
 ---
 
 # Flash-Terminal
