@@ -16,25 +16,7 @@ Flash-Terminal aims to be your all-in-one terminal, combining essential tools an
 * Built-in package installers
 * Customizable macros
 * Core system commands support
-
----
-
-## Current Status
-
-This project is in **extremely early development**. Some features are still under construction or not fully functional, including:
-
-* Editing terminal responses
-* SSH functionality
-
----
-
-## Roadmap
-
-* Fix response editing issues
-* Implement stable SSH support
-* Expand macro capabilities
-* Improve UI/UX for smoother interaction
-
+  
 ---
 
 ## Installation
