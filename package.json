@@ -1,6 +1,6 @@
 {
     "name": "flash-terminal",
-    "version": "0.02",
+    "version": "0.0.1",
     "description": "The Universal Terminal",
     "main": "main.js",
     "scripts": {
