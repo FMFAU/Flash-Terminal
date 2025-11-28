@@ -1,6 +1,6 @@
 {
     "name": "flash-terminal",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The Universal Terminal",
     "main": "main.js",
     "scripts": {
@@ -21,5 +21,10 @@
             "icon": "Assets/zap.ico"
         }
     },
-    "dependencies": {}
+    "dependencies": {
+        "ansi-to-html": "^0.7.2",
+        "ssh2": "^1.17.0",
+        "strip-ansi": "^7.1.0",
+        "ws": "^8.16.0"
+    }
 }
